@@ -14,8 +14,7 @@
 7. git push
 
 
-<!-- After git pull, to resolve problem use these commands -->
-
+*After git pull, to resolve problem use these commands
 ---Show current branch---
 1. git branch --show-current
 
@@ -23,8 +22,7 @@
 ---Move to main branch---
 1. git checkout 'main'
 
-<!-- What changes in a file ? -->
-
+*What changes in a file ?
 1. git diff
 2. git log
 3. git checkout id/address
