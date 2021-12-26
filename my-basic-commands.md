@@ -13,7 +13,17 @@
 
 7. git push
 
-// what changes in a file ?
+
+<!-- After git pull, to resolve problem use these commands -->
+
+---Show current branch---
+1. git branch --show-current
+
+
+---Move to main branch---
+1. git checkout 'main'
+
+<!-- What changes in a file ? -->
 
 1. git diff
 2. git log
