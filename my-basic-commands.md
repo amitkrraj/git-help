@@ -28,8 +28,8 @@
 3. git checkout id/address
 
 
-////////////////////////////
-…or create a new repository on the command line
+////////////////////////////...
+When you create a new repository on the command line
 
 1. git init
 2. git add .
@@ -39,8 +39,8 @@
 6. git push -u origin main
 
 
-/////////////////////////
-…or push an existing repository from the command line
+/////////////////////////...
+Push an existing repository from the command line
 
 1. git remote add origin https://github.com/amitkrraj/hello.git
 2. git branch -M main
