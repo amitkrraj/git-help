@@ -50,23 +50,23 @@ Push an existing repository from the command line
 /////////////////////////...
 Branch in git
 
-1. Create Branch
+1. Create Branch  =>   
     $ git branch  <branch name>
-2. List Branch
+2. List Branch  =>  
     $ git branch --list  
-   or
+     =>  or  =>  
     $ git branch  
-3. Delete Branch
+3. Delete Branch  =>  
     $ git branch -d<branch name> 
-   or
+     =>  or  =>  
     $ git branch -D <branch name> 
-4. Delete a Remote Branch
+4. Delete a Remote Branch  =>  
     $ git push origin -delete <branch name>
-5. Switch Branch
+5. Switch Branch  =>  
     $ git checkout<branch name>  
-6. Switch to master branch
+6. Switch to master branch  =>  
     $ git branch -m master 
-7. Rename Branch
+7. Rename Branch  =>  
     $ git branch -m <old branch name><new branch name>
-8. Merge Branch
+8. Merge Branch  =>  
     $ git merge <branch name> 
