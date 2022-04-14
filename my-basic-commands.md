@@ -51,22 +51,22 @@ Push an existing repository from the command line
 Branch in git
 
 1. Create Branch  =>   
-    $ git branch  <branch name>
+    $ git branch branch_name
 2. List Branch  =>  
     $ git branch --list  
      =>  or  =>  
     $ git branch  
 3. Delete Branch  =>  
-    $ git branch -d<branch name> 
+    $ git branch -d branch_name
      =>  or  =>  
-    $ git branch -D <branch name> 
+    $ git branch -D branch_name
 4. Delete a Remote Branch  =>  
-    $ git push origin -delete <branch name>
+    $ git push origin -delete branch_name
 5. Switch Branch  =>  
-    $ git checkout<branch name>  
+    $ git checkout branch_name
 6. Switch to master branch  =>  
     $ git branch -m master 
 7. Rename Branch  =>  
-    $ git branch -m <old branch name><new branch name>
+    $ git branch -m old_branch_name new_branch_name
 8. Merge Branch  =>  
-    $ git merge <branch name> 
+    $ git merge branch_name 
