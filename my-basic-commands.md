@@ -72,5 +72,5 @@ Branch in git
     $ git branch -m old_branch_name new_branch_name
 8. Merge Branch  =>  
     $ git merge branch_name 
-9. Abort Merging
+9. Abort Merging  =>  
     $ git merge --abort
