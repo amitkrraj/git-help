@@ -52,6 +52,8 @@ Branch in git
 
 1. Create Branch  =>   
     $ git branch branch_name
+1.1 simultaneously creates and checks out =>   
+    $ git checkout -b branch-name
 2. List Branch  =>  
     $ git branch --list  
      =>  or  =>  
